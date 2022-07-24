@@ -29,6 +29,7 @@ ____
 
   9. Какой платный канал привлечения имеет самый высокий ROMI?
 
+
 - [Методы сегментации клиентов и целевой аудитории](https://github.com/0n1xx/Product_analysis/blob/main/RFM_Cohort/rfm_cohort.ipynb):
 
   Задачи:
